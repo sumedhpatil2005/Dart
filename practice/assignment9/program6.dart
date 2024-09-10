@@ -5,11 +5,10 @@ void main(){
 	for(int i=1;i<=row;i++){
 		num=i;
 		for(int j=i;j<=row;j++){
-			
 			stdout.write(num);
-			num++;
+	num++;
 			}
-		print("");
+	print("");
 	}
 }
-		
+
